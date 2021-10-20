@@ -1,2 +1,7 @@
 This is a github lesson
+<<<<<<< HEAD
 print the some of This is a change i have made 
+=======
+print the some of 
+create a new branch
+>>>>>>> e8111550cdfef30d59ea2714fe7f4b8960184605
